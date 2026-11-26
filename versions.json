@@ -1,6 +1,38 @@
 {
   "versions": [
     {
+      "version": "1.8.2",
+      "title": "Better Controllers",
+      "date": "2026-11-25",
+      "size": "Small patch",
+      "summary": "Xbox and PlayStation controllers now work properly, with easier running and stronger rumble.",
+      "intro": "Controllers feel much better now, whichever kind you use.",
+      "download": "https://github.com/ChocolateWafer1/untitledgame-releases/releases/download/v1.8.2/UntitledGame-1.8.2-win.zip",
+      "bytes": 62287964,
+      "sha256": "0f49444235ffddddd5585a039fe05f48f4d70906d376b1da661a9a3566ee95a8",
+      "sections": [
+        {
+          "title": "New",
+          "items": [
+            "PlayStation controllers|They work too, and the hints show Cross, Circle, Square and Triangle."
+          ]
+        },
+        {
+          "title": "Improved",
+          "items": [
+            "Running|Push the stick all the way to run, or click it, so you can run and jump at the same time.",
+            "Rumble|Stronger and easier to feel. Settings shows which controller the game found."
+          ]
+        },
+        {
+          "title": "Fixed",
+          "items": [
+            "Xbox controllers|Every button, stick and trigger is read correctly now, even over Bluetooth. The right stick only aims, and you hold RT to dig."
+          ]
+        }
+      ]
+    },
+    {
       "version": "1.8.1",
       "title": "First Release",
       "date": "2026-11-25",
