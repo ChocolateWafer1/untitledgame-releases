@@ -1,0 +1,28 @@
+{
+  "versions": [
+    {
+      "version": "1.8.1",
+      "title": "First Release",
+      "date": "2026-11-25",
+      "size": "First release",
+      "summary": "Make a character who is really yours, then dig, build and explore twenty biomes.",
+      "intro": "Untitled Game comes to the Firefly Launcher. Make a character, step into a world grown from its own seed, and dig, build and wander at your own pace.",
+      "download": "https://github.com/ChocolateWafer1/untitledgame-releases/releases/download/v1.8.1/UntitledGame-1.8.1-win.zip",
+      "bytes": 62283995,
+      "sha256": "672c82a7a1ec15f6ddd4adfb1a823147a603ab6c76918ad794ec2080a6da1d07",
+      "sections": [
+        {
+          "title": "New",
+          "items": [
+            "Avatar creator|Shape the face, body, hair, clothes and even tattoos, so your character looks just how you want.",
+            "Twenty biomes|Every world has meadows, deserts, snow, glowing caves and more, all grown from its own seed.",
+            "Dig and build|Break blocks with your bare hands and place them anywhere. Every material sounds and breaks its own way.",
+            "Controllers|Play with a controller, with rumble, or with mouse and keyboard.",
+            "Safe saves|Nine save files, kept outside the game with automatic backups."
+          ]
+        }
+      ],
+      "picture": "https://raw.githubusercontent.com/ChocolateWafer1/untitledgame-releases/main/pictures/notes-1.jpg"
+    }
+  ]
+}
