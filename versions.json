@@ -1,6 +1,27 @@
 {
   "versions": [
     {
+      "version": "1.8.3",
+      "title": "More Body Weights",
+      "date": "2026-11-27",
+      "size": "Small patch",
+      "summary": "Make your character much heavier or much lighter: weight now goes from about 70 to 650 lb.",
+      "intro": "Make your character much heavier or much lighter: weight now goes from about 70 to 650 lb.",
+      "download": "https://github.com/ChocolateWafer1/untitledgame-releases/releases/download/v1.8.3/UntitledGame-1.8.3-win.zip",
+      "bytes": 62289166,
+      "sha256": "631c9381cfdb63dbb71997cbdfe4bca7b01f501c4ad73816181a8d8ce2545ffe",
+      "sections": [
+        {
+          "title": "Improved",
+          "items": [
+            "Weight|The weight slider goes much further both ways, from about 70 lb to about 650 lb at average height.",
+            "Heavier bodies|Rounder belly, broader hips and thicker arms and legs, with the arms resting around the body.",
+            "Lighter bodies|Slimmer arms, legs and shoulders. Your existing characters look exactly the same."
+          ]
+        }
+      ]
+    },
+    {
       "version": "1.8.2",
       "title": "Better Controllers",
       "date": "2026-11-25",
